@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Facility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\managevendor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\managevendor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\managevendors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\managevendors.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\managevendor.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\managevendor.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\managevendors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\managevendors.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|c:\\users\\hp\\source\\repos\\facility\\facility\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\managevendor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\managevendor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|C:\\Users\\HP\\source\\repos\\Facility\\facility\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB094C1-F292-48C6-B029-CB4A928725D1}|Facility\\Facility.csproj|solutionrelative:facility\\dataaccess\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Facility\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "Facility\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:17:10.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "Facility\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx",
+              "RelativeToolTip": "Facility\\AdminDashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T18:00:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageUsers.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageUsers.aspx",
+              "RelativeDocumentMoniker": "Facility\\ManageUsers.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageUsers.aspx",
+              "RelativeToolTip": "Facility\\ManageUsers.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T18:23:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageVendor.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx",
+              "RelativeDocumentMoniker": "Facility\\ManageVendor.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx",
+              "RelativeToolTip": "Facility\\ManageVendor.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T10:48:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Facility\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx.cs",
+              "RelativeToolTip": "Facility\\Login.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:11:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx",
+              "RelativeDocumentMoniker": "Facility\\Login.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx",
+              "RelativeToolTip": "Facility\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-28T17:57:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageUsers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageUsers.aspx.cs",
+              "RelativeDocumentMoniker": "Facility\\ManageUsers.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageUsers.aspx.cs",
+              "RelativeToolTip": "Facility\\ManageUsers.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:24:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageVendors.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendors.aspx",
+              "RelativeDocumentMoniker": "Facility\\ManageVendors.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendors.aspx",
+              "RelativeToolTip": "Facility\\ManageVendors.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T10:59:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageVendor.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Facility\\ManageVendor.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx.designer.cs",
+              "RelativeToolTip": "Facility\\ManageVendor.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:31:12.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageVendors.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendors.aspx.cs",
+              "RelativeDocumentMoniker": "Facility\\ManageVendors.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendors.aspx.cs",
+              "RelativeToolTip": "Facility\\ManageVendors.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:09:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Web.config",
+              "RelativeDocumentMoniker": "Facility\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Web.config",
+              "RelativeToolTip": "Facility\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T17:41:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Facility\\AdminDashboard.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\AdminDashboard.aspx.designer.cs",
+              "RelativeToolTip": "Facility\\AdminDashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:50:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Facility\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Facility\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:11:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Facility\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\WebForm1.aspx",
+              "RelativeToolTip": "Facility\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-03T10:59:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageVendor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx.cs",
+              "RelativeDocumentMoniker": "Facility\\ManageVendor.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\ManageVendor.aspx.cs",
+              "RelativeToolTip": "Facility\\ManageVendor.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:54:11.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Facility\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\Global.asax.cs",
+              "RelativeToolTip": "Facility\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:29:55.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\DataAccess\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Facility\\DataAccess\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Facility\\Facility\\DataAccess\\DatabaseHelper.cs",
+              "RelativeToolTip": "Facility\\DataAccess\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:51:41.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
