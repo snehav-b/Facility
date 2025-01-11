@@ -21,7 +21,7 @@ namespace YourNamespace
             string password = txtPassword.Text.Trim();
 
             // Connection string from web.config
-            string connStr = ConfigurationManager.ConnectionStrings["YourConnectionString"].ConnectionString;
+            string connStr = ConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString;
 
             using (SqlConnection con = new SqlConnection(connStr))
             {

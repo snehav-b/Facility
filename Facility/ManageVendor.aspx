@@ -12,8 +12,8 @@
             <Columns>
                 <asp:BoundField DataField="VendorID" HeaderText="Vendor ID" />
                 <asp:BoundField DataField="VendorName" HeaderText="Vendor Name" />
-                <asp:BoundField DataField="ServiceType" HeaderText="Service Type" />
-                <asp:BoundField DataField="ContactNumber" HeaderText="Contact Number" />
+                <asp:BoundField DataField="Email" HeaderText="Email " />
+                <asp:BoundField DataField="ContactInfo" HeaderText="Contact Number" />
                 <asp:ButtonField Text="Delete" CommandName="Delete" />
             </Columns>
         </asp:GridView>

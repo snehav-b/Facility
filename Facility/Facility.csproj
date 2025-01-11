@@ -31,7 +31,7 @@
     <OutputPath>bin\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
+    <WarningLevel>0</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -120,7 +120,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Login.aspx" />
-    <Content Include="ManageUsers.aspx" />
     <Content Include="ManageVendor.aspx" />
     <Content Include="ManageVendors.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -226,13 +225,6 @@
     </Compile>
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ManageUsers.aspx.cs">
-      <DependentUpon>ManageUsers.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ManageUsers.aspx.designer.cs">
-      <DependentUpon>ManageUsers.aspx</DependentUpon>
     </Compile>
     <Compile Include="ManageVendor.aspx.cs">
       <DependentUpon>ManageVendor.aspx</DependentUpon>
